@@ -20,4 +20,4 @@ Text | text of the review | text
 
 
 
-Find the dataset here: https://www.kaggle.com/ameeamin/predicting-the-helpfulness-of-amazon-reviews/notebook
+Find the dataset here: https://www.kaggle.com/ameeamin/predicting-the-helpfulness-of-amazon-reviews/data
